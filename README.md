@@ -18,11 +18,13 @@ dataset
      --not applicable(na)
      
   --block
-     --low
-     --medium
+  
+     --low 
+     --medium   
      --high
      --not applicable
  --potholes
+ 
     --low
     --medium
     --high
