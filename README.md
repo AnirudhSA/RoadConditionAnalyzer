@@ -10,11 +10,8 @@ dataset
   --alligator
   
      --low(l)
-     
-     --medium(m)
-     
-     --high(h)
-     
+     --medium(m)   
+     --high(h)     
      --not applicable(na)
      
   --block
@@ -33,6 +30,7 @@ dataset
  The Pavement Condition Index (PCI) is a numerical index between 0 and 100, which is used to indicate the general condition of a pavement section.
  PCR = 100-sum(deduct of each fault)
  where deduct = distressweight * extent_weight * severity
+ 
  
  
  Model:
