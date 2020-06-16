@@ -6,11 +6,17 @@ Thus based on the road photographs, the model will be able to predict the paveme
 
 Dataset structure->
 dataset
+
   --alligator
+  
      --low(l)
+     
      --medium(m)
+     
      --high(h)
+     
      --not applicable(na)
+     
   --block
      --low
      --medium
